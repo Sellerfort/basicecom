@@ -1,6 +1,6 @@
 # sellerfort
 
-A new Flutter project.
+A basic ecommerce Flutter app project.
 
 ## Getting Started
 
